@@ -3,6 +3,21 @@
 ---
 <h3 align="left">My current tech stack</h2>
 
+<table style="width:100%">
+    <tr>
+        <th>Languages</th>
+        <th>Tools</th>
+    </tr>
+    <tr>
+        <td>
+            1
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+</table>
+
 #### Languages:
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
