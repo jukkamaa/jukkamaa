@@ -24,6 +24,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 <img align="right" alt="Linux" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <br />
 <br />
+<br />
 <p align="right" style="font-size: 14px;">These are soon to be added to stack! 👇</p>
 <img align="right" alt="React" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="right" alt="Node" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
