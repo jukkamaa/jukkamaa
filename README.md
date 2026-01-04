@@ -29,4 +29,5 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 <img align="right" alt="Node" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="right" alt="Python" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <br/>
-<hr/>
+
+#
