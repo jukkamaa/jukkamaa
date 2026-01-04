@@ -34,7 +34,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 <br /><br /><br />
 
-## 📚 Projects
+<h4 align="left">📚 Projects</h4>
 
 Here are some of my projects done in studies:
 
