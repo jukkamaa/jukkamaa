@@ -3,7 +3,7 @@
 ---
 <h3 align="left">My current tech stack</h2>
 
-<table style="width:1000px; border:0px;">
+<table style="width:1000px; border:0px solid black;">
     <tr>
         <th align="left">Languages</th>
         <th align="right">Tools</th>
@@ -29,11 +29,7 @@
     </tr>
 </table>
 
-#### Languages:
-
-
-<br /><br />
-<h4 align="right">Tools</h4>
+<h4 align="left">leftside</h4><h4 align="right">rightside</h4>
 
 
 <br/>
