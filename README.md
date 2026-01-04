@@ -1,9 +1,12 @@
 # Jukka-Maaninka
 > Personal portfolio
 ---
-<h3 align="left">My current tech stack</h2>
+
 
 <table align="center" style="width:1000px; border:0px solid black;">
+    <tr>
+        <th colspan="2"><h3 align="center">My current tech stack</h3></th>
+    </tr>
     <tr>
         <th align="left">Languages</th>
         <th align="right">Tools</th>
@@ -27,15 +30,25 @@
             <img align="right" alt="Linux" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
         </td>
     </tr>
+    <tr>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="2"><h4 align="center">These are soon to be learned</h4></td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img align="center" alt="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <img align="center" alt="Node" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            <img align="center" alt="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+        </td>
+    </tr>
 </table>
-
-<h4 align="left">leftside</h4><h4 align="right">rightside</h4>
-
 
 <br/>
 <hr/>
 
-<h4 align="center">These are soon to be learned</h2>
+
 <img align="center" alt="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="Node" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
