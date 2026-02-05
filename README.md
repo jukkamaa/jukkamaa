@@ -31,18 +31,18 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 ![NODEJS](https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen)
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F)
 
-<br /><br /><br />
+<br /><br />
+---
 
-### 📚 Projects
-
-**Currently active study project:**
+### 📚 Projects (active)
 
 #### E-commerce platform
 
 Fully funtional e-commerce platform using by various technologies. More information coming later...
 
+---
 
-**Here are some of my projects done in studies (completed):**
+### 📚 Projects (completed)
 
 #### 📊 ASCII decoder / encoder (purely Go)
 
@@ -56,7 +56,7 @@ Key learning points:
 
 [repository link]
 
-### 🚄 Pathfinding application (purely Go, group project)
+#### 🚄 Pathfinding application (purely Go, group project)
 
 Commandline tool that simulates the route planning and scheduling of multiple trains in a graph-based station network. The program finds efficient paths from origin to destination and calculates the optimal movement schedule, preventing collisions. Uses Breandth-First Search and Depth-First Search algorithms with some custom strategies.
 
@@ -69,7 +69,7 @@ Key learning poinst:
 
 [repository link]
 
-### 🌐 Webforum (Go, html, css, sql, docker. group project)
+#### 🌐 Webforum (Go, html, css, sql, docker. group project)
 
 Fully functional webforum application that allows users to create accounts, post messages, and interact with other users (likes/dislikes, comments, etc.). Features filtering, sorting, and pagination. Users can filter posts by category, created posts (for registered users), and liked posts (for registered users).
 
