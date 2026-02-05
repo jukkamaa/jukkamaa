@@ -22,7 +22,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 ### 🧰 Tools and technologies that familiar to me
 ![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=f05133&link=https%3A%2F%2Fgit-scm.com%2F)
 ![GITHUB](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&color=black&link=https%3A%2F%2Fgithub.com%2F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=336791&link=https%3A%2F%2Fwww.postgresql.org%2F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=336791&link=https%3A%2F%2Fwww.postgresql.org%2F)f
 ![DCOKER](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&color=%232496ED&link=https%3A%2F%2Fwww.docker.com%2F)
 ![UBUNTU](https://img.shields.io/badge/ubuntu%20linux-white?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2F)
 
