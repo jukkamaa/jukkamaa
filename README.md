@@ -8,7 +8,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
-https://img.shields.io/badge/-white?style=flat-square&logo=go
+![GO](https://img.shields.io/badge/-white?style=flat-square&logo=go)
 
 
 ### 🧰 Languages and tools
