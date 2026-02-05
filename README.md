@@ -8,7 +8,9 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fgo.dev%2F)
+### 🧰 Programming languages in my stack
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgo.dev%2F)
+![JS](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&link=https%3A%2F%2Fwww.javascript.com%2F)
 
 
 ### 🧰 Languages and tools
