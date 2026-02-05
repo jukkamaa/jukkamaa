@@ -1,5 +1,5 @@
 # Jukka Maaninka
-**`Full Stack Developer student and technologist`**
+**`🧑🏻‍💻 Full Stack Developer student and technologist`**
 > Studying to become awesome full-stack developer @ Kood/Sisu
 
 I am passionate about information technology and programming, holding a vocational qualification in Information and Communications Technology. I continuously apply my IT skills in day-to-day work to solve problems, streamline processes, and enhance efficiency.
@@ -8,7 +8,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
-### 🧰 Programming languages in my stack
+### ⌨️ Programming languages in my stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgo.dev%2F)
 ![JS](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&color=grey&link=https%3A%2F%2Fwww.javascript.com%2F)
 ![TS](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&color=%2300C9FF&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
