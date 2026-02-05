@@ -32,6 +32,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F)
 
 <br /><br />
+
 ---
 
 ### 📚 Projects (active)
