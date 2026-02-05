@@ -26,27 +26,25 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 ![DCOKER](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&color=%232496ED&link=https%3A%2F%2Fwww.docker.com%2F)
 ![UBUNTU](https://img.shields.io/badge/ubuntu%20linux-white?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2F)
 
-<br />
-<br />
-<br />
-
-#### These are soon to be added to stack! 👇
-
-<p align="right" style="font-size: 14px;">These are soon to be added to stack! 👇</p>
-<img align="right" alt="React" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="right" alt="Node" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="right" alt="Python" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<br/>
-
-#
+#### 👇 These are soon to be added to stack!
+![REACT](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&color=%2361DAFB&link=https%3A%2F%2Freact.dev%2F)
+![NODEJS](https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen)
+![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F)
 
 <br /><br /><br />
 
-<h2 align="right">📚 Projects</h2>
+### 📚 Projects
 
-Here are some of my projects done in studies:
+**Currently active study project:**
 
-### 📊 ASCII decoder / encoder (purely Go)
+#### E-commerce platform
+
+Fully funtional e-commerce platform using by various technologies. More information coming later...
+
+
+**Here are some of my projects done in studies (completed):**
+
+#### 📊 ASCII decoder / encoder (purely Go)
 
 Simple console application that decodes and encodes ASCII characters within specific decoding methods.
 This was two-part assignment where I created console application that decoded and encoded ASCII characters. On the second part I created web application that used the console application to decode and encode ASCII characters.
@@ -83,4 +81,3 @@ Key learning points:
 - Docker essentials: Installation, configuration, image creation, container management, and best practices.
 
 [repository link]
-
