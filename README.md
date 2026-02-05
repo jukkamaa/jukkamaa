@@ -29,6 +29,9 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 <br />
 <br />
 <br />
+
+### These are soon to be added to stack! 👇
+
 <p align="right" style="font-size: 14px;">These are soon to be added to stack! 👇</p>
 <img align="right" alt="React" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="right" alt="Node" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
