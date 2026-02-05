@@ -10,25 +10,25 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ### 🧰 Programming languages in my stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgo.dev%2F)
-![JS](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&link=https%3A%2F%2Fwww.javascript.com%2F)
+![JS](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&color=grey&link=https%3A%2F%2Fwww.javascript.com%2F)
+![TS](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&color=%2300C9FF&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![HTML](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=e54c21&link=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2F)
+![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&color=005a9c&link=https%3A%2F%2Fwww.w3.org%2FStyle%2FCSS%2FOverview.en.html)
+![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql&logoColor=white&logoSize=auto&color=%234479A1&link=https%3A%2F%2Fwww.iso.org%2Fstandard%2F76583.html)
+![C++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto&color=%2300599C&link=https%3A%2F%2Fcppreference.com%2F)
+![JAVA](https://img.shields.io/badge/JAVA-white?style=for-the-badge&logoColor=white&logoSize=auto&color=3a75b0&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
+![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&color=3a75b0&link=https%3A%2F%2Fwww.php.net%2F)
 
+### 🧰 Tools and technologies that familiar to me
+![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=f05133&link=https%3A%2F%2Fgit-scm.com%2F)
+![GITHUB](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&color=black&link=https%3A%2F%2Fgithub.com%2F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=336791&link=https%3A%2F%2Fwww.postgresql.org%2F)
+![DCOKER](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&color=%232496ED&link=https%3A%2F%2Fwww.docker.com%2F)
+![UBUNTU](https://img.shields.io/badge/ubuntu%20linux-white?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2F)
 
-### 🧰 Languages and tools
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="left" alt="TypeScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="left" alt="Go" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-<img align="left" alt="C++" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="left" alt="PHP" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="right" alt="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="right" alt="PostgreSQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="right" alt="Docker" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="right" alt="Linux" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <br />
 <br />
+### These are soon to be added to stack! 👇
 <p align="right" style="font-size: 14px;">These are soon to be added to stack! 👇</p>
 <img align="right" alt="React" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="right" alt="Node" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
