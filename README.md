@@ -1,5 +1,5 @@
 # Jukka Maaninka
-**`Full Stack Developer student and technologist`**
+**`🧑🏻‍💻 Full Stack Developer student and technologist`**
 > Studying to become awesome full-stack developer @ Kood/Sisu
 
 I am passionate about information technology and programming, holding a vocational qualification in Information and Communications Technology. I continuously apply my IT skills in day-to-day work to solve problems, streamline processes, and enhance efficiency.
@@ -8,43 +8,44 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
-### 🧰 Programming languages in my stack
+### ⌨️ Programming languages in my stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgo.dev%2F)
-![JS](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&link=https%3A%2F%2Fwww.javascript.com%2F)
+![JS](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&color=grey&link=https%3A%2F%2Fwww.javascript.com%2F)
+![TS](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&color=%2300C9FF&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![HTML](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=e54c21&link=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2F)
+![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&color=005a9c&link=https%3A%2F%2Fwww.w3.org%2FStyle%2FCSS%2FOverview.en.html)
+![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql&logoColor=white&logoSize=auto&color=%234479A1&link=https%3A%2F%2Fwww.iso.org%2Fstandard%2F76583.html)
+![C++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto&color=%2300599C&link=https%3A%2F%2Fcppreference.com%2F)
+![JAVA](https://img.shields.io/badge/JAVA-white?style=for-the-badge&logoColor=white&logoSize=auto&color=3a75b0&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
+![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&color=3a75b0&link=https%3A%2F%2Fwww.php.net%2F)
 
+### 🧰 Tools and technologies that familiar to me
+![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=f05133&link=https%3A%2F%2Fgit-scm.com%2F)
+![GITHUB](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&color=black&link=https%3A%2F%2Fgithub.com%2F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=336791&link=https%3A%2F%2Fwww.postgresql.org%2F)f
+![DCOKER](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&color=%232496ED&link=https%3A%2F%2Fwww.docker.com%2F)
+![UBUNTU](https://img.shields.io/badge/ubuntu%20linux-white?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2F)
 
-### 🧰 Languages and tools
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="left" alt="TypeScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="left" alt="Go" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-<img align="left" alt="C++" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="left" alt="PHP" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img align="right" alt="Git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="right" alt="PostgreSQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="right" alt="Docker" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="right" alt="Linux" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<br />
-<br />
-<br />
-<p align="right" style="font-size: 14px;">These are soon to be added to stack! 👇</p>
-<img align="right" alt="React" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="right" alt="Node" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="right" alt="Python" width="15px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<br/>
+#### 👇 These are soon to be added to stack!
+![REACT](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&color=%2361DAFB&link=https%3A%2F%2Freact.dev%2F)
+![NODEJS](https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen)
+![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F)
 
-#
+<br /><br />
 
-<br /><br /><br />
+---
 
-<h2 align="right">📚 Projects</h2>
+### 📚 Projects (active)
 
-Here are some of my projects done in studies:
+#### E-commerce platform
 
-### 📊 ASCII decoder / encoder (purely Go)
+Fully funtional e-commerce platform using by various technologies. More information coming later...
+
+---
+
+### 📚 Projects (completed)
+
+#### 📊 ASCII decoder / encoder (purely Go)
 
 Simple console application that decodes and encodes ASCII characters within specific decoding methods.
 This was two-part assignment where I created console application that decoded and encoded ASCII characters. On the second part I created web application that used the console application to decode and encode ASCII characters.
@@ -56,7 +57,7 @@ Key learning points:
 
 [repository link]
 
-### 🚄 Pathfinding application (purely Go, group project)
+#### 🚄 Pathfinding application (purely Go, group project)
 
 Commandline tool that simulates the route planning and scheduling of multiple trains in a graph-based station network. The program finds efficient paths from origin to destination and calculates the optimal movement schedule, preventing collisions. Uses Breandth-First Search and Depth-First Search algorithms with some custom strategies.
 
@@ -69,7 +70,7 @@ Key learning poinst:
 
 [repository link]
 
-### 🌐 Webforum (Go, html, css, sql, docker. group project)
+#### 🌐 Webforum (Go, html, css, sql, docker. group project)
 
 Fully functional webforum application that allows users to create accounts, post messages, and interact with other users (likes/dislikes, comments, etc.). Features filtering, sorting, and pagination. Users can filter posts by category, created posts (for registered users), and liked posts (for registered users).
 
@@ -81,4 +82,3 @@ Key learning points:
 - Docker essentials: Installation, configuration, image creation, container management, and best practices.
 
 [repository link]
-
