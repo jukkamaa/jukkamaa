@@ -8,6 +8,9 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
+https://img.shields.io/badge/-white?style=flat-square&logo=go
+
+
 ### 🧰 Languages and tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" alt="TypeScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
