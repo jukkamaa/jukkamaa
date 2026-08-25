@@ -35,15 +35,34 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
-### 📚 Projects (active)
+### 📚 Projects (completed)
 
 #### E-commerce platform
 
-Fully funtional e-commerce platform using by various technologies. More information coming later...
+The platform evolves from basic user authentication and product catalogs to a full-featured system with payment processing, administrative tools, automated deployment pipelines, and production monitoring. Each project introduces advanced engineering concepts while building toward a system that handles the complexities of real-world applications.
 
----
+Key Learning Outcomes:
+- Database design with ACID compliance and authentication systems using JWT tokens and OAuth integration.
+- Payment processing workflows with message queue architectures for order management and status coordination.
+- Responsive user interfaces with accessibility standards and administrative dashboard development.
+- Production security implementation including TLS certificates, data encryption, input validation, and rate limiting.
+- Automated testing across unit, integration, and load testing scenarios.
 
-### 📚 Projects (completed)
+**E-Commerce project 1 / 3**
+First part establishes the core infrastructure that supports all other features, including secure user registration with OAuth integration, ACID - compliant database design, and a searchable product catalog with filtering capabilities.
+
+[ https://github.com/jukkamaa/e-commerce-1 ]
+
+**E-Commerce project 2 / 3**
+The platform gains transaction capabilities through shopping cart systems for both guests and registered users, secure payment processing with sandbox environments, and order management workflows using message queues for reliable processing.
+
+[ https://github.com/jukkamaa/e-commerce-2 ]
+
+**E-Commerce project 3 / 3**
+The final customer - facing implementation includes responsive web interfaces meeting accessibility standards, comprehensive admin dashboards for business management, and production-ready security measures including TLS encryption and performance optimization.
+
+[ https://github.com/jukkamaa/e-commerce-3 ]
+
 
 #### 📊 ASCII decoder / encoder (purely Go)
 
