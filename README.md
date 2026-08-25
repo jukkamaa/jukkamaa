@@ -8,7 +8,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
-<br /><br />
+<br />
 
 ### ⌨️ Programming languages in my stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgo.dev%2F)
@@ -33,7 +33,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 ![NODEJS](https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen)
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F)
 
-<br /><br />
+<br />
 
 ---
 
@@ -68,6 +68,7 @@ The final customer - facing implementation includes responsive web interfaces me
 
 [ https://github.com/jukkamaa/e-commerce-3 ]
 
+---
 
 #### 📊 ASCII decoder / encoder (purely Go)
 
