@@ -8,6 +8,8 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 
 ---
 
+<br /><br />
+
 ### ⌨️ Programming languages in my stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoSize=auto&link=https%3A%2F%2Fgo.dev%2F)
 ![JS](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoSize=auto&color=grey&link=https%3A%2F%2Fwww.javascript.com%2F)
@@ -48,7 +50,7 @@ Key Learning Outcomes:
 - Production security implementation including TLS certificates, data encryption, input validation, and rate limiting.
 - Automated testing across unit, integration, and load testing scenarios.
 
-**E-Commerce project 1 / 3**
+*E-Commerce project 1 / 3*
 
 First part establishes the core infrastructure that supports all other features, including secure user registration with OAuth integration, ACID - compliant database design, and a searchable product catalog with filtering capabilities.
 
@@ -60,7 +62,7 @@ The platform gains transaction capabilities through shopping cart systems for bo
 
 [ https://github.com/jukkamaa/e-commerce-2 ]
 
-**E-Commerce project 3 / 3** (Final and finished application)
+***E-Commerce project 3 / 3*** (Final and finished application)
 
 The final customer - facing implementation includes responsive web interfaces meeting accessibility standards, comprehensive admin dashboards for business management, and production-ready security measures including TLS encryption and performance optimization.
 
