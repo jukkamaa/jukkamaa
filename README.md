@@ -19,11 +19,11 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 ![JAVA](https://img.shields.io/badge/JAVA-white?style=for-the-badge&logoColor=white&logoSize=auto&color=3a75b0&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
 ![PHP](https://img.shields.io/badge/php-white?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&color=3a75b0&link=https%3A%2F%2Fwww.php.net%2F)
 
-### 🧰 Tools and technologies that familiar to me
+### 🧰 Tools and technologies that are familiar to me
 ![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=f05133&link=https%3A%2F%2Fgit-scm.com%2F)
 ![GITHUB](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&color=black&link=https%3A%2F%2Fgithub.com%2F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=336791&link=https%3A%2F%2Fwww.postgresql.org%2F)
-![DCOKER](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&color=%232496ED&link=https%3A%2F%2Fwww.docker.com%2F)
+![DOCKER](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&color=%232496ED&link=https%3A%2F%2Fwww.docker.com%2F)
 ![UBUNTU](https://img.shields.io/badge/ubuntu%20linux-white?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2F)
 
 #### 👇 These are soon to be added to stack!
@@ -49,16 +49,19 @@ Key Learning Outcomes:
 - Automated testing across unit, integration, and load testing scenarios.
 
 **E-Commerce project 1 / 3**
+
 First part establishes the core infrastructure that supports all other features, including secure user registration with OAuth integration, ACID - compliant database design, and a searchable product catalog with filtering capabilities.
 
 [ https://github.com/jukkamaa/e-commerce-1 ]
 
 **E-Commerce project 2 / 3**
+
 The platform gains transaction capabilities through shopping cart systems for both guests and registered users, secure payment processing with sandbox environments, and order management workflows using message queues for reliable processing.
 
 [ https://github.com/jukkamaa/e-commerce-2 ]
 
 **E-Commerce project 3 / 3**
+
 The final customer - facing implementation includes responsive web interfaces meeting accessibility standards, comprehensive admin dashboards for business management, and production-ready security measures including TLS encryption and performance optimization.
 
 [ https://github.com/jukkamaa/e-commerce-3 ]
@@ -74,7 +77,7 @@ Key learning points:
 - Parsing functional arguments
 - HTML templates in Go
 
-[repository link]
+[ https://github.com/jukkamaa/ascii-decoder-encoder ]
 
 #### 🚄 Pathfinding application (purely Go, group project)
 
@@ -87,7 +90,7 @@ Key learning poinst:
 - Solve constraints like single-occupancy stations and optimal multi-train paths.
 - Optimize performance for large-scale networks.
 
-[repository link]
+[ https://github.com/jukkamaa/pathfinding-application ]
 
 #### 🌐 Webforum (Go, html, css, sql, docker. group project)
 
@@ -100,4 +103,4 @@ Key learning points:
 - The basics of encryption.
 - Docker essentials: Installation, configuration, image creation, container management, and best practices.
 
-[repository link]
+[ https://github.com/jukkamaa/web-forum ]
