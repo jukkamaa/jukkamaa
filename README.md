@@ -60,7 +60,7 @@ The platform gains transaction capabilities through shopping cart systems for bo
 
 [ https://github.com/jukkamaa/e-commerce-2 ]
 
-**E-Commerce project 3 / 3**
+**E-Commerce project 3 / 3** (Final and finished application)
 
 The final customer - facing implementation includes responsive web interfaces meeting accessibility standards, comprehensive admin dashboards for business management, and production-ready security measures including TLS encryption and performance optimization.
 
