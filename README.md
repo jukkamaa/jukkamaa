@@ -28,7 +28,7 @@ As a sociable and collaborative team player, I am committed to delivering outsta
 ![DOCKER](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&color=%232496ED&link=https%3A%2F%2Fwww.docker.com%2F)
 ![UBUNTU](https://img.shields.io/badge/ubuntu%20linux-white?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2F)
 
-#### 👇 These are soon to be added to stack!
+#### 👇 These are soon to be added to stack (studying these currently)!
 ![REACT](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&color=%2361DAFB&link=https%3A%2F%2Freact.dev%2F)
 ![NODEJS](https://img.shields.io/badge/nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen)
 ![Static Badge](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F)
